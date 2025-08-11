@@ -1,5 +1,6 @@
 name = "cloudflare-runtime-error"
 pages_build_output_dir = ".vercel/output/static"
+compatibility_date = "2025-08-11"
 
 [env.production]
 compatibility_flags = ["nodejs_compat"]
